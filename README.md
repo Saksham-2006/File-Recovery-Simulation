@@ -22,7 +22,7 @@ A full-stack file recovery tool built with:
 ### 🔹 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/file-recovery-tool.git
+git clone https://github.com/Saksham-2006/file-recovery-tool.git
 cd file-recovery-tool
 ```
 
